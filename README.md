@@ -1,5 +1,5 @@
 # ngGoogleLocation
-Component used for display location data from Google Maps Geocoding API.
+Directive used for display location data from Google Maps Geocoding API.
 
 Posibilities:
 - Show defulat location data
