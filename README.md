@@ -1,7 +1,7 @@
 # ngGoogleLocation
 Directive used for display location data from Google Maps Geocoding API.
 
-Posibilities:
+Features:
 - Show defulat location data
 - Customize location data
 - Show/hide details (expand all data)
